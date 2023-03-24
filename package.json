@@ -1137,7 +1137,7 @@
     "queue": "^6.0.2",
     "source-map-support": "0.5.20",
     "untildify": "4.0.0",
-    "util": "0.12.4",
+    "util": "0.12.5",
     "winston": "3.3.3",
     "winston-console-for-electron": "0.0.6",
     "winston-transport": "4.4.0"
